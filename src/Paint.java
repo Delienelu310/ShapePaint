@@ -7,7 +7,7 @@ import javafx.scene.layout.BorderPane;
 /**
  *  Application class   
  * 
- * Contains panel and menu
+ * Contains panel and menu with instruments
  */
 public class Paint extends Application{
 
