@@ -5,7 +5,7 @@ import javafx.stage.Stage;
 import javafx.scene.layout.BorderPane;
 
 /**
- *  Application class
+ *  Application class   
  * 
  * Contains panel and menu
  */
